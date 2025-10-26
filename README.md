@@ -61,3 +61,23 @@ python app.py
 
 # 4. Visit
 http://127.0.0.1:5000
+
+📦 Tech stack
+
+- Flask
+- Markdown
+
+📑 Philosophy
+
+- Text first
+- No JavaScript, no ads, no analytics
+- Instant page load
+- Fully self-hostable
+
+📜 License
+
+MIT License © 2025 — Open for everyone.
+
+Contributions welcome!
+
+Cub — because sometimes you just need a smaller bear 🐾
