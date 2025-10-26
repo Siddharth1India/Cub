@@ -29,26 +29,8 @@ Think of it as a self-hosted alternative inspired by Bear Blog’s simplicity.
 
 ---
 
-## 🗂️ Folder structure
-
-cub/
-├── app.py
-├── content/
-│ ├── first-post.md
-│ └── about.md
-├── templates/
-│ ├── base.html
-│ └── post.html
-├── static/ # optional assets
-├── config.yaml
-├── README.md
-└── requirements.txt
-
----
-
 ## 🚀 Usage
 
-```bash
 # 1. Clone repo
 git clone https://github.com/Siddharth1India/cub.git
 cd cub
